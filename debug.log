@@ -1,0 +1,27 @@
+[0921/165815.121:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/165815.242:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/170815.121:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/170815.122:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/170815.124:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/170815.124:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/171032.384:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/171032.384:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/171315.317:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/171315.317:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/172815.319:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/172815.319:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/174315.322:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/174315.343:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/175815.369:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/175815.369:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/181315.404:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/181315.404:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/182815.405:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0921/182815.405:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/143009.735:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/143009.755:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/030908.049:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/030908.050:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/143451.856:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/143451.857:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1016/105335.534:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
